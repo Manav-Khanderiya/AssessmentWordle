@@ -1,5 +1,5 @@
 # Wordle game assignment
-# 201800250 - VU - Manav Khanderiya
+# VU - Manav Khanderiya
 import random
 import string
 
