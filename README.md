@@ -1,5 +1,5 @@
 # Python CLI based Wordle Game
-There are two files you need to play this game
+There are two files you need to play this game:
 1. wordle.py  -- Main python file 
 2. words.txt  -- Contains more than 5000 five-letters-word 
 
