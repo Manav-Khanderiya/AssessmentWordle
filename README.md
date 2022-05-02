@@ -3,7 +3,7 @@ There are two files you need to play this game
 1. wordle.py  -- Main python file 
 2. words.txt  -- Contains more than 5000 five-letters-word 
 
-There no packages/libraires requirement for this game just two in-built librarires **random** nd **string**, download the two files and just enjoy the game.
+There no packages/libraires requirement for this game just two in-built libraries **random** nd **string**, download the two files and just enjoy the game.
 
 Working of Game: 
 - You will be given 6 chances to guess the right word, input should be a five letter word only and if you entered input <5 or >5 letter word than your number of chances left will be the same.
